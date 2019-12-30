@@ -1,0 +1,14 @@
+name: kemal_example
+version: 0.1.0
+
+authors:
+  - AJ Bourg
+
+description: |
+  Silly little example project.
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+license: MIT
